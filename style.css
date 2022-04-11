@@ -1,0 +1,14 @@
+.slide {
+  height:100vh;
+  width: 100vw;
+  background-image: url(assets/corporate_pic.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.phrase {
+  display:flex;
+  margin-top: 5%;
+  margin-left: 50%;
+  color:darkblue;
+}
